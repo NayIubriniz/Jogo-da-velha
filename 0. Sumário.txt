@@ -1,0 +1,14 @@
+#Bloco054
+
+15 - Projeto Jogo da Velha
+00:00:00 1 - Introdução - Jogo da Velha
+00:01:27 2 - Criando o tabuleiro
+00:10:05 3 - Criando os Jogadores
+00:17:08 4 - Adicionando ações e símbolos
+
+
+
+#Bloco055
+
+15 - Projeto Jogo da Velha
+00:00:00 5 - Verificando vencedor e finalizando
