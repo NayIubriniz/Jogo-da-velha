@@ -1,6 +1,6 @@
 //iniciar variavéis
 let board = ['','','','','','','','',''];
-let playerTime = 1;
+let playerTime = 0;
 let gameOver = false;
 
 let symbols = ['o','x'];
